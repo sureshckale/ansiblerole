@@ -1,0 +1,20 @@
+galaxy_info:
+  author: Suresh
+  description: Docker
+  company: pvt ltd
+  role_name: docker
+  license: MIT
+  min_ansible_version: 2.9.23
+  platforms:
+    - name: Ubuntu
+    versions:
+      -  20.04.3 
+      
+  galaxy_tags:
+    - docker
+    - swarm
+    - swarmkit
+    - dockerswarm
+    - dockerswarmkit
+
+dependencies: []
